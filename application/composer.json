@@ -1,0 +1,9 @@
+{
+	"name" : "tiffany-taylor/decorator-pattern",
+	"description" : "PHP implementation of Decorator Pattern example from Head First Design Patterns book",
+	"autoload" : {
+		"psr-0" : {
+			"Beverages//" : "src/"
+		}
+	}
+}
